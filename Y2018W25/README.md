@@ -2,7 +2,7 @@
 ARTS(Algorithm, Review, Technique, Share)
 
 ## **Algorithm**
-> 1. LeetCode : [Two Sum](https://leetcode.com/problems/two-sum/description/), [Solution](./Algorithm/TwoSum.java)
+> 1. LeetCode : [Two Sum](https://leetcode.com/problems/two-sum/description/), *[Solution](./Algorithm/TwoSum.java)*, *[Solution2](./Algorithm/TwoSum2.java)*
 
 ## **Review**
 
