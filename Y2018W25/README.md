@@ -8,6 +8,6 @@ ARTS: Algorithm, Review, Technique, Share
 
 
 ## **Technique**
-> 1. [Database Specification](./Technique/)
+> 1. [Database Specification](./Technique/DBSpecification.md)
 
 ## **Share**
