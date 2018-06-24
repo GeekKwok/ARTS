@@ -1,5 +1,5 @@
 # **ARTS**
-ARTS(Algorithm, Review, Technique, Share)
+ARTS: Algorithm, Review, Technique, Share
 
 ## **Algorithm**
 > 1. LeetCode : [Two Sum](https://leetcode.com/problems/two-sum/description/), *[Solution](./Algorithm/TwoSum.java)*, *[Solution2](./Algorithm/TwoSum2.java)*
@@ -8,6 +8,6 @@ ARTS(Algorithm, Review, Technique, Share)
 
 
 ## **Technique**
-> 1. [Database Specification](./Technique/DBSpecification.md)
+> 1. [Database Specification](./Technique/)
 
 ## **Share**
