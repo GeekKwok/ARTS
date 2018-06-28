@@ -27,7 +27,7 @@ This specification of database is suitable for the scalable internet business.
 2. you shoud be in control of less than `1024` tables in a single sharding table.
 3. the table must have primary key, and recommended use the `unsigned int` data type.
 4. forbid to use foreign key, it should be implemented by application if need to ensure data integrity.
-5. 
+5. suggest to split the large and low frequent column into a seperate table, depart from the hot and cool data.
 
 ## IV. Column Specification
 
