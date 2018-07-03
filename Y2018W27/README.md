@@ -8,7 +8,7 @@ ARTSEM: Algorithm, Review, Technique Tip, Share, English, Mathematics
 
 
 ## **Technique**
-
+- [git之set-url命令](./Technique/git之set-url命令.md)
 
 ## **Share**
 
