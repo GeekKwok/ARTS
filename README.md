@@ -1,4 +1,4 @@
-# ARTSEM
+# **ARTSEM**
 ARTSEM(Algorithm, Review, Technique Tip, Share, English, Mathematics), just do it everyweek.
 
 1. solve more than one `algorithm` problem everyweek.(每周解决一个算法题.)
@@ -11,4 +11,4 @@ ARTSEM(Algorithm, Review, Technique Tip, Share, English, Mathematics), just do i
 
 [Y2018W25](./Y2018W25/)
 [Y2018W26](./Y2018W26/)
-[Y2017W27](./Y2018W27/)
+[Y2018W27](./Y2018W27/)
