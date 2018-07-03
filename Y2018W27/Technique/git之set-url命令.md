@@ -8,7 +8,7 @@ git远端仓库与本地仓库做了关联后, 若修改了远端仓库的名称
 
 从上述命令知道`origin`就是我们指的远端仓库, 那么我们要通过如下命令来修改这个地址:
 > #显示当前的远端仓库地址<br>
-> git remote -v
+> git remote -v<br>
 > #修改远端仓库地址<br>
 > git remote set-url origin https://github.com/GeekKwok/ARTSEM.git
 
