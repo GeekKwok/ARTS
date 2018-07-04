@@ -1,5 +1,5 @@
 # **ARTSEM**
-ARTSEM(Algorithm, Review, Technique Tip, Share, English, Mathematics), just do it everyweek.
+**ARTSEM**(**A**lgorithm, **R**eview, **T**echnique Tip, **S**hare, **E**nglish, **M**athematics), just do it everyweek.
 
 1. solve more than one `algorithm` problem everyweek.(每周解决至少一个算法题.)
 2. read and `review` more than one english technical article everyweek.(每周阅读并点评至少一篇英文技术文章.)
@@ -8,6 +8,16 @@ ARTSEM(Algorithm, Review, Technique Tip, Share, English, Mathematics), just do i
 5. reading and reciting more than one `English` essay everyweek.(每周阅读并背诵至少一篇英语短文.)
 6. learn more than one `mathematics knowledge` point everyweek.(每周学习至少一个数学知识点.)
 7. keep doing `ARTSEM` at least one year.
+
+
+**Purpose**
+
+- Algorithm : Learning Algorithm
+- Review : Learning English Reading
+- Technique Tip : Learning Techniques
+- Share : Learning Influence
+- English : Learning English Speaking
+- Mathematics : Learning Mathematics
 
 [Y2018W25](./Y2018W25/)
 [Y2018W26](./Y2018W26/)
