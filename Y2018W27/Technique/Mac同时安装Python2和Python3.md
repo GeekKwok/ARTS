@@ -9,10 +9,10 @@
 > - Step4: 设定路径$PATH(不与系统Python冲突)
 > - Step5: 确认安装结果
 
-##### Step1: 安装Xcode
+#### Step1: 安装Xcode
 直接到AppStore搜索Xcode并点击安装, 完成后打开Xcode, 第一次开启时提示License Agreement, 然后到Terminal输入`xcode-select --install`来完成安装.
 
-##### Step2: 安装套件管理工具Homebrew
+#### Step2: 安装套件管理工具Homebrew
 在Terminal输入如下命令来完成安装Homebrew:
 > ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
@@ -22,7 +22,7 @@
 > *#如果出现如下提示说明已安装成功<br>
 > Your system is ready to brew.*
 
-##### Step3: 安装Python
+#### Step3: 安装Python
 在Terminal输入如下命令来检查系统Python版本:
 > python --version
 
@@ -48,7 +48,7 @@
 在Terminal输入如下命令来查看安装的Python2版本:
 > python2 --version
 
-##### Step4: 设定路径$PATH(不与系统Python冲突)
+#### Step4: 设定路径$PATH(不与系统Python冲突)
 在Terminal输入如下命令来查看$PATH变量:
 > echo $PATH
 > #可能的显示结果: /usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin
@@ -59,7 +59,7 @@
 > - 编辑路径的顺序<br>
 > - 保存并退出
 
-##### Step5: 确认安装结果
+#### Step5: 确认安装结果
 在Terminal输入如下命令来确认安装版本:
 > python3 --version<br>
 > python2 --version<br>
