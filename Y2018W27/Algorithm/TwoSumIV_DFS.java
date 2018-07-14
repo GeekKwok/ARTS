@@ -10,17 +10,22 @@
  class Solution {
      public boolean findTarget(TreeNode root, int k) {
          List<Integer> set = new ArrayList();
-         return dsf(set, root, k);
+         return dfs(set, root, k);
      }
 
-     private boolean dsf(List<Integer> set, TreeNode node, int target) {
-         if (node == null) {
-             return false;
+     private boolean dfs(List<Integer> set, TreeNode node, int target) {
+         if (node != null) {
+             if (set.contains(target - node.val)) {
+                 return true;
+             }
+             set.add(node.val);
+             if (dfs(set, node.left, target)) {
+                 return true;
+             }
+             if (dfs(set, node.right, target)) {
+                 return true;
+             }
          }
-         if (set.contains(target - node.val)) {
-             return true;
-         }
-         set.add(node.val);
-         return dsf(set, node.left, target) || dsf(set, node.right, target);
+         return false;
      }
  }
